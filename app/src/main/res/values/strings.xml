@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex4 Networking</string>
+    <string name="show_album">Show album</string>
+    <!--<string name="imageFromImgur">Image from Imgur</string>-->
+</resources>
